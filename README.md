@@ -6,9 +6,10 @@
 * Cybershoes and Follow Cybershoes  
 * bindings load altough game name was changed  
 * packaged game tested on different machine  
+* jumping / physics  
+* grab objects and move    
+* building, packaging 
 
-## issues: 
-* movement not in correct direction while holding an object in either hand (same for handcontroller joysticxk and Cybershoes). It could be that movment direction is inherited from grabbed object.  
+## observe:   
 
-## todos:  
-* enable jumping / physics  
+* Vive Controller: does the engine (or the packaged game) create a custom binding for the Vive Controller that messes up the grab binding?
