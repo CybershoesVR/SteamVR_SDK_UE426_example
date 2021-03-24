@@ -30,8 +30,8 @@
 					}
 				},
 				{
-					"mode": "trigger",
-					"path": "/user/hand/left/input/trigger",
+					"mode": "button",
+					"path": "/user/hand/left/input/grip",
 					"inputs":
 					{
 						"click":
@@ -41,8 +41,8 @@
 					}
 				},
 				{
-					"mode": "trigger",
-					"path": "/user/hand/right/input/trigger",
+					"mode": "button",
+					"path": "/user/hand/right/input/grip",
 					"inputs":
 					{
 						"click":
@@ -195,5 +195,5 @@
 			]
 		}
 	},
-	"description": "SteamVRInput-15228867"
+	"description": "SteamVR_SDK_UE426-15228867"
 }

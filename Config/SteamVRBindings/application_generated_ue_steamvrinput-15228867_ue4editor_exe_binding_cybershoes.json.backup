@@ -62,15 +62,6 @@
                },
                "mode" : "button",
                "path" : "/user/treadmill/input/jump"
-            },
-            {
-               "inputs" : {
-                  "position" : {
-                     "output" : "/actions/main/in/moveleft_x,moveleft_y x y_axis2d"
-                  }
-               },
-               "mode" : "trackpad",
-               "path" : "/user/treadmill/input/trackpad_default"
             }
          ]
       }
