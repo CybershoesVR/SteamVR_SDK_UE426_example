@@ -1,15 +1,20 @@
-# SteamVR_SDK_UE426_example
- 
+## How you integrate Cybershoes without coding 
+(Windows PC and SteamVR):  
 
 
-## what works: 
-* Cybershoes and Follow Cybershoes  
-* bindings load altough game name was changed  
-* packaged game tested on different machine  
-* jumping / physics  
-* grab objects and move    
-* building, packaging 
+* Run your game (from editor or compiled), go to SteamVR controller bindings, bind the Cybershoes (like so: https://youtu.be/5HI2Cu5YSb0) and click Replace Default Bindings.
 
-## observe:   
 
-* Vive Controller: does the engine (or the packaged game) create a custom binding for the Vive Controller that messes up the grab binding?
+* You can configure it so that the Cybershoes default trackpad runs into MovementAxisLeft and the CybershoesTrackpadPress into Sprint
+
+
+
+* Now this will work on your PC.
+
+
+* Use the slider on the receiver to adjust speed
+
+
+
+
+If you need to publish your game/app, let us know then we can add your bindings to the driver. dev@cybershoes.com
